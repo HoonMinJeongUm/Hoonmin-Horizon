@@ -1,0 +1,1 @@
+/opt/stack/mistral-dashboard/mistraldashboard/enabled/_50_mistral.py
